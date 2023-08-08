@@ -1,0 +1,17 @@
+body
+{
+    background-image: url(background.jpg);
+}
+h3
+{
+color: aliceblue;
+}
+
+.div_volume
+{
+    float: right;
+}
+.div_speed
+{
+    float: left;
+}
